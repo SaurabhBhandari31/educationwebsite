@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/educationwebsite/static/css/main.965bed37.chunk.css",
+    "main.js": "/educationwebsite/static/js/main.29e8a1f8.chunk.js",
+    "main.js.map": "/educationwebsite/static/js/main.29e8a1f8.chunk.js.map",
+    "runtime-main.js": "/educationwebsite/static/js/runtime-main.ebd3c15c.js",
+    "runtime-main.js.map": "/educationwebsite/static/js/runtime-main.ebd3c15c.js.map",
+    "static/css/2.4be38407.chunk.css": "/educationwebsite/static/css/2.4be38407.chunk.css",
+    "static/js/2.b694cb5b.chunk.js": "/educationwebsite/static/js/2.b694cb5b.chunk.js",
+    "static/js/2.b694cb5b.chunk.js.map": "/educationwebsite/static/js/2.b694cb5b.chunk.js.map",
+    "static/js/3.505d0ac4.chunk.js": "/educationwebsite/static/js/3.505d0ac4.chunk.js",
+    "static/js/3.505d0ac4.chunk.js.map": "/educationwebsite/static/js/3.505d0ac4.chunk.js.map",
+    "index.html": "/educationwebsite/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/educationwebsite/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.965bed37.chunk.css.map": "/educationwebsite/static/css/main.965bed37.chunk.css.map",
+    "static/js/2.b694cb5b.chunk.js.LICENSE.txt": "/educationwebsite/static/js/2.b694cb5b.chunk.js.LICENSE.txt",
+    "static/media/Allpages.a0629b24.jpg": "/educationwebsite/static/media/Allpages.a0629b24.jpg",
+    "static/media/Computer.de12549d.jpg": "/educationwebsite/static/media/Computer.de12549d.jpg",
+    "static/media/Css.42b9c2c8.jpg": "/educationwebsite/static/media/Css.42b9c2c8.jpg",
+    "static/media/Html.a09948c6.jpg": "/educationwebsite/static/media/Html.a09948c6.jpg",
+    "static/media/Java.484d645f.jpg": "/educationwebsite/static/media/Java.484d645f.jpg",
+    "static/media/Javascript.d7152711.jpg": "/educationwebsite/static/media/Javascript.d7152711.jpg",
+    "static/media/banner1.e1f4229d.jpg": "/educationwebsite/static/media/banner1.e1f4229d.jpg",
+    "static/media/banner3.e720c70e.jpg": "/educationwebsite/static/media/banner3.e720c70e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebd3c15c.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.b694cb5b.chunk.js",
+    "static/css/main.965bed37.chunk.css",
+    "static/js/main.29e8a1f8.chunk.js"
+  ]
+}
